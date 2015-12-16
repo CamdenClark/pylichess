@@ -1,6 +1,5 @@
 *.pyc
 /dist/
-/tests/
 /*.egg-info
 /build/
 .DS_Store
